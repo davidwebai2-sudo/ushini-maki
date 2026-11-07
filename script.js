@@ -38,7 +38,7 @@ const UI = {
     address_pending: 'Адрес будет добавлен', phone_pending: 'Телефон будет добавлен',
     hours_pending: 'График работы будет добавлен', email_pending: 'Почта будет добавлена',
     map_placeholder: 'Место для карты', social_title: 'Мы в соцсетях', social_pending: 'Ссылка будет добавлена',
-    footer_rights: 'Все права защищены.', footer_note: 'Цены, адрес и график работы уточняются.',
+    footer_rights: 'Все права защищены.', footer_note: 'Концепт-проект: ресторан вымышленный, контакты ненастоящие. Дизайн и разработка: Давид (@davidwebai).',
   },
   en: {
     doc_title: 'Ushini Maki — Chinese restaurant',
@@ -76,7 +76,7 @@ const UI = {
     address_pending: 'Address coming soon', phone_pending: 'Phone number coming soon',
     hours_pending: 'Opening hours coming soon', email_pending: 'Email coming soon',
     map_placeholder: 'Map placeholder', social_title: 'Follow us', social_pending: 'Link coming soon',
-    footer_rights: 'All rights reserved.', footer_note: 'Prices, address and opening hours to be confirmed.',
+    footer_rights: 'All rights reserved.', footer_note: 'Concept project: the restaurant is fictional and the contacts are not real. Design and development: David (@davidwebai).',
   },
   zh: {
     doc_title: 'Ushini Maki — 中餐厅',
@@ -114,7 +114,7 @@ const UI = {
     address_pending: '地址待补充', phone_pending: '电话待补充',
     hours_pending: '营业时间待补充', email_pending: '邮箱待补充',
     map_placeholder: '地图预留位置', social_title: '关注我们', social_pending: '链接待添加',
-    footer_rights: '版权所有。', footer_note: '价格、地址与营业时间待定。',
+    footer_rights: '版权所有。', footer_note: '概念项目：餐厅为虚构，联系方式并非真实。设计与开发：大卫（@davidwebai）。',
   },
 };
 
@@ -320,13 +320,13 @@ const RESTAURANT = {
     en: '88 Qinglong Road, Jing’an District, Shanghai, China',
     zh: '中国上海市静安区青龙路88号',
   },
-  phone: '+86 21 5555 0188',
+  phone: '+86 000 000 0000',
   hours: {
     ru: 'Пн–Пт: 08:00–24:00<br>Сб–Вс: 08:00–02:00',
     en: 'Mon–Fri: 08:00–24:00<br>Sat–Sun: 08:00–02:00',
     zh: '周一至周五：08:00–24:00<br>周六至周日：08:00–次日02:00',
   },
-  email: 'ushinimaki@gmail.com',
+  email: 'hello@ushini-maki.example',
   social: { instagram: '', facebook: '', telegram: '', youtube: '' },
 };
 
